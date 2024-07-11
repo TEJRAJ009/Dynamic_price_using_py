@@ -1,1 +1,2 @@
-# Dynamic_price_using_py
+this is my ongoing project and is hidden for privacy perposes
+will we uploaded as complete
